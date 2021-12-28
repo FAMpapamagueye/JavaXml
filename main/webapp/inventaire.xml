@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inventaire>
+	<livre>
+		<auteur>Class</auteur>
+		<titre>les lecon de vie de Mame Cheikh</titre>
+		<date>avril 2006</date>
+		<stock>12</stock>
+		<minimum>6</minimum>
+	</livre>
+
+	<livre>
+		<auteur>Methode</auteur>
+		<titre>Python </titre>
+		<date>juillet 2020</date>
+		<stock>11</stock>
+		<minimum>6</minimum>
+	</livre>
+
+	<livre>
+		<auteur>Object</auteur>
+		<titre>le s singlets de l'informatique</titre>
+		<date>decembre 2001</date>
+		<stock>13</stock>
+		<minimum>6</minimum>
+	</livre>
+
+	<livre>
+		<auteur>Heritage</auteur>
+		<titre>Mouhamed</titre>
+		<date> mai 2016</date>
+		<stock>12</stock>
+		<minimum>6</minimum>
+	</livre>
+
+	<livre>
+		<auteur>attribut</auteur>
+		<titre>Public ET Liberte</titre>
+		<date> aout 2010 </date>
+		<stock>8</stock>
+		<minimum>6</minimum>
+	</livre>
+
+	<livre>
+		<auteur>constructeur</auteur>
+		<titre>L'enfeant Noire</titre>
+		<date>avril 2013</date>
+		<stock>9</stock>
+		<minimum>6</minimum>
+	</livre>
+
+	<livre>
+		<auteur>this</auteur>
+		<titre>la Gestion du temps</titre>
+		<date>fevrier 2009</date>
+		<stock>19</stock>
+		<minimum>6</minimum>
+	</livre>
+
+	<livre>
+		<auteur>the Goat</auteur>
+		<titre>manga</titre>
+		<date>janvier 2000</date>
+		<stock>20</stock>
+		<minimum>6</minimum>
+	</livre>
+
+	<livre>
+		<auteur>Lala</auteur>
+		<titre>le revenant</titre>
+		<date>mars 2019</date>
+		<stock>12</stock>
+		<minimum>36</minimum>
+	</livre>
+
+	<livre>
+		<auteur>Trait</auteur>
+		<titre>amina</titre>
+		<date>novembre 2007</date>
+		<stock>6</stock>
+		<minimum>26</minimum>
+	</livre>
+</inventaire>
